@@ -29,3 +29,7 @@ npm run build
 ## Usage
 
 Once installed, visit any YouTube video and change the playback speed. The timer will automatically update to show the adjusted duration based on your playback speed.
+
+## LICENSE 
+
+This project is licensed under GNU General Public License v3.0
